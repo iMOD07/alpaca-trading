@@ -9,7 +9,7 @@ public class MyProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MyProjectApplication.class, args);
 
-        System.out.print("FirstProject");
+        System.out.println("FirstProject");
         System.out.print("Test Add");
 
 	}
